@@ -1,4 +1,5 @@
-
+In your xdp folder 
+Their are bpf_bpfeb.o and bpf_bpfeb.go delete them except xdp/xdp.c & xdp/main.go
 sudo -s
 export BPF_CLANG=clang
 go generate

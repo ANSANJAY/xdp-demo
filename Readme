@@ -3,4 +3,4 @@ sudo -s
 export BPF_CLANG=clang
 go generate
 go build
-./xdp wlp113s(command - ip a  to check your network interface)
+./xdp wlp113s0(command - ip a  to check your network interface)
